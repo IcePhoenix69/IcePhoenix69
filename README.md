@@ -7,6 +7,7 @@ Most of my project are not done in this repo, because i had to work with my team
 
 Update of 15/10/2025 (EU format): Right now i started an apprenticeship at Cineca, a business in Italy, and i'm very happy.
 Except the fact tat i neel to learn Java, Angular, TypeScript, GraphQL and RestAPI in a month. I will have nightmares about it.
+
 ---
 
 My current known programming/markup languages are:
