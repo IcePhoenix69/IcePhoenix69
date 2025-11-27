@@ -2,8 +2,8 @@
 
 ### About myself
 I'm a new FSD (Full Stack Developer) from Refresh Academy.
-For six long month, since 27/01/2025 to 25/07/2025, i'm learning how to be a Web developer for Front-End and Back-End projects.
-Most of my project are not done in this repo, because i had to work with my teams, but i want to publish them here (when i have time).
+For six long month, since 27/01/2025 to 25/07/2025, i had learned how to be a Web Developer for Front-End and Back-End projects (aka Full Stack Developer).
+Most of my project are not done in this account, because i had to work with my teams, but i want to publish them here (when i will have some free time).
 
 ---
 
