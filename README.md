@@ -1,13 +1,16 @@
 # Hello there 👋
 
+I am Matteo Ventura, a guy on the Internet with a GitHub Account. See my info below.
+
 ## About myself
-I'm a new FSD (Full Stack Developer) from [Refresh Academy](https://refresh-academy.org/).
-For six long month, since 27/01/2025 to 25/07/2025, i had learned how to be a Web Developer for Front-End and Back-End projects (aka Full Stack Developer).
+I'm a new FSD (Full Stack Developer) from [Refresh Academy](https://refresh-academy.org/).  
+For six long month, since 27/01/2025 to 25/07/2025, i had learned how to be a Web Developer for Front-End and Back-End projects (aka Full Stack Developer).  
 Most of my projects are not in this account, because i had to work with my teams, but i want to publish them here (when i will have some free time).
 
 My hobbies are: Cooking, Cat (i have a cat), Playing Videogames (don't have the time right now), Magic the Gathering (only paper), Dungeon and Dragons, and sometimes Gardening (i want to make a herb/spices garden).
 
-I like cooking, i feel good when cooking, and i try some recipes online, some seen on tv (see Masterchef regularly). I prefer Italian (because we are the best at cooking) and Asiatic (mostly japanese and malasyan) cuisine.
+I like cooking, i feel good when cooking, and i try some recipes online, some seen on tv (see Masterchef regularly).  
+ I prefer Italian (because we are the best at cooking) and Asiatic (mostly japanese and malasyan) cuisine.  
 Recently i started playing Magic the Gathering, and to me is an addiction, but i don't buy cards, i just love the artworks and the fact that it can be used to learn some programming logic, it's impressive.
 
 
@@ -22,7 +25,7 @@ Update of 20/11/2025 (EU format): I have made a simple project to learn Java Spr
 For me it's a better way to manage a DB, and it's easier than SQL, but Docker itself is a little confusing. I need more practice to use it efficiently.
 
 Update of 16/02/2026 (EU format): So, i started working hard to learn properly the company policy, known my colleagues, Spring Boot, Podman instead of Docker (for licence purposes).
-I'm tired, but right now i can start my own projects, except for the fact that i work 8 hours a day with 4 hours of travelling everyday, but i can try.
+I'm tired, but right now i can start my own projects, except for the fact that i work 8 hours a day with 4 hours of travelling everyday, but i can try.  
 As for work, i started testing the company services, and i won't talk about it here (company policies), but i started using Junit 5 and Mockito to create test suites.
 Work is good, and i actually like the workplace, but the timing of the request and projects is too unstable for my liking (eh, i'm a peculiar man).
 
