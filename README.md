@@ -7,12 +7,11 @@ I'm a new FSD (Full Stack Developer) from [Refresh Academy](https://refresh-acad
 For six long month, since 27/01/2025 to 25/07/2025, i had learned how to be a Web Developer for Front-End and Back-End projects (aka Full Stack Developer).  
 Most of my projects are not in this account, because i had to work with my teams, but i want to publish them here (when i will have some free time).
 
-My hobbies are: Cooking, Cat (i have a cat), Playing Videogames (don't have the time right now), Magic the Gathering (only paper), Dungeon and Dragons, and sometimes Gardening (i want to make a herb/spices garden).
+My hobbies are: Cooking, Cats (i have a cat), Playing Videogames (have some time right now), Magic the Gathering (only paper), Dungeon and Dragons, and sometimes Gardening (i want to make a herb/spices garden).
 
-I like cooking, i feel good when cooking, and i try some recipes online, some seen on tv (see Masterchef regularly).  
- I prefer Italian (because we are the best at cooking) and Asiatic (mostly japanese and malasyan) cuisine.  
+I like cooking, i feel good and relaxed when cooking, and i try often recipes online, some seen on tv (see Masterchef and similar TV programs regularly).  
+I prefer Italian (because we are the best at cooking) and Asiatic (mostly japanese and malasyan) cuisine.  
 Recently i started playing Magic the Gathering, and to me is an addiction, but i don't buy cards, i just love the artworks and the fact that it can be used to learn some programming logic, it's impressive.
-
 
 ---
 
@@ -29,7 +28,14 @@ I'm tired, but right now i can start my own projects, except for the fact that i
 As for work, i started testing the company services, and i won't talk about it here (company policies), but i started using Junit 5 and Mockito to create test suites.
 Work is good, and i actually like the workplace, but the timing of the request and projects is too unstable for my liking (eh, i'm a peculiar man).
 
+Update of 15/04/2026: My internship at Cineca has ended and i want to talk about it before telling if i decide to stay there or to part ways with the company.
+I worked here for six month, and i started as a simple junion dev. I learned new programming languages, new method of studying, how to use AI to make AI agent, how to optimize my personal workflow, and how to work in a team.
+But it didn't went like i was expecting, i felt a little abandoned because they had (and still have) so much work to do that my learning time with some senior was in total 3 hours, and i used AI to summarize the lesson's concepts. This is not a good thing, both for me and themselves, because this means a lack of personal contact with your colleagues, the teamwork becoming weaker, relationship with your colleagues is limited only to work and nothing else.
+Frankly, i had decided to go in another direction, even before my contract ended, and they don't have the time to teach me properly to become part of their team. Well, this is life, but not a life i am willing to accept, so i will change myself only for the better, not for worse.
+
 ---
+
+### Programming zone
 
 My current known programming/markup languages are:
  - HTML (good)
