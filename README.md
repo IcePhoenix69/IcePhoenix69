@@ -37,6 +37,8 @@ Frankly, i had decided to go in another direction, even before my contract ended
 
 ### Programming zone
 
+I have a personal website with Github Pages, and i will push some projects when i have time.
+
 My current known programming/markup languages are:
  - HTML (good)
  - CSS (good)
@@ -46,11 +48,10 @@ My current known programming/markup languages are:
  - React.js (ok)
  - SQL + SQLite (not-so-good)
  - Java (good)
+ - Angular (good) (yes i know it's a framework)
 
 In-learning programming languages:
- - [x] Java (to be better)
  - [x] SpringBoot (good) (yes i know it's a framework)
- - [x] Angular (yes i know it's a framework)
  - [x] TypeScript
  - [x] MongoDB
  - [ ] GraphQL
@@ -77,3 +78,6 @@ I want to learn properly for myself and for my portfolio:
   - [Linkedin](https://www.linkedin.com/in/matteo-ventura-217ab421b/)
   - [Email](matteo.ven97@gmail.com)
   - Discord: GlaceLaser#1966
+
+Availability: 8:30 - 18:00 (UTC +2, Italy)
+Available for work right now.
